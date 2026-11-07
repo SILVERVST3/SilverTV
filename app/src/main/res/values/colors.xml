@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="silver_bg">#FF121316</color>
+    <color name="silver_card">#FF22252A</color>
+    <color name="silver_mid">#FFC9CDD2</color>
+    <color name="black">#FF000000</color>
+</resources>

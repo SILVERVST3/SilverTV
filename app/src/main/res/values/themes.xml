@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SilverTV" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/silver_bg</item>
+        <item name="android:statusBarColor">@color/silver_bg</item>
+        <item name="android:navigationBarColor">@color/silver_bg</item>
+    </style>
+
+    <style name="Theme.SilverTV.Player" parent="Theme.SilverTV">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
